@@ -1,2 +1,2 @@
 My first readme
-i'm ToluDaniels
+i'm ToluDaniel
